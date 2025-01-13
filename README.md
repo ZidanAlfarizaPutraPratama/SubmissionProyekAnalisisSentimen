@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan aplikasi di P
 │   └── playstore_reviews_indonesia.csv    # Dataset ulasan aplikasi
 │
 ├── Notebook/
-│   └── sentiment_analysis.ipynb          # Notebook utama yang berisi langkah-langkah analisis
+│   └── analisis_sentimen_playstore_whatsapp.ipynb          # Notebook utama yang berisi langkah-langkah analisis
 │
 ├── scraping/
 │   └── scraping.py                       # Script untuk scraping ulasan aplikasi dari Play Store
