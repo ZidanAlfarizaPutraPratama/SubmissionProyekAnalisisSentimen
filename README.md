@@ -35,7 +35,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, pastikan Anda memiliki Py
 
 1. **Clone Repositori**
    ```bash
-   git clone https://github.com/username/playstore-sentiment-analysis.git
+   git clone https://github.com/ZidanAlfarizaPutraPratama/SubmissionProyekAnalisisSentimen.git
    cd Submission
    ```
 
