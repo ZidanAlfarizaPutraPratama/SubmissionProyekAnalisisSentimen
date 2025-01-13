@@ -20,11 +20,6 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan aplikasi di P
 ├── data/
 │   └── playstore_reviews_indonesia.csv    # Dataset ulasan aplikasi
 │
-├── models/
-│   ├── lstm_model.py                     # Kode model LSTM
-│   ├── random_forest_model.py            # Kode model Random Forest
-│   └── lstm_w2v_model.py                 # Kode model LSTM dengan Word2Vec
-│
 ├── notebooks/
 │   └── sentiment_analysis.ipynb          # Notebook utama yang berisi langkah-langkah analisis
 │
