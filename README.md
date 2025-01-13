@@ -15,12 +15,12 @@ Proyek ini bertujuan untuk melakukan analisis sentimen pada ulasan aplikasi di P
 ## Struktur Proyek
 
 ```
-/playstore-sentiment-analysis
+/Submission
 │
-├── data/
+├── Data/
 │   └── playstore_reviews_indonesia.csv    # Dataset ulasan aplikasi
 │
-├── notebooks/
+├── Notebook/
 │   └── sentiment_analysis.ipynb          # Notebook utama yang berisi langkah-langkah analisis
 │
 ├── scraping/
@@ -36,7 +36,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, pastikan Anda memiliki Py
 1. **Clone Repositori**
    ```bash
    git clone https://github.com/username/playstore-sentiment-analysis.git
-   cd playstore-sentiment-analysis
+   cd Submission
    ```
 
 2. **Instalasi Dependensi**
